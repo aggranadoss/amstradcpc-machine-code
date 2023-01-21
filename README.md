@@ -1,4 +1,4 @@
-# amstradcpc-machine-code
+# Amstrad CPC MACHINE CODE
 Particular exercises and completed challenges of the Retroman Program
 
 
