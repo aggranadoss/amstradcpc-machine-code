@@ -1,0 +1,1 @@
+The pc or program counter starts at 4300, set all values to zero. And start Winape. Attached a video for the result of its operation.
