@@ -1,1 +1,3 @@
-The pc or program counter starts at 4300, set all values to zero. And start Winape. Attached a video for the result of its operation.
+////////////////R E A D M E  P L E A S E/////////////////////////
+
+All code is placed (or pasted) at position 4000. Many times in machine code there is a tendency towards spaghetti code, but the results in machine speed are impressive. The pc or program counter starts at 4300, set all values to zero. And start Winape. Attached a video for the result of its operation and also attached images of the code as cod1, ... ,cod5 along with the binary file.
