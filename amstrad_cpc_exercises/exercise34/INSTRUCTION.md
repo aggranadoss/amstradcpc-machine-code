@@ -5,9 +5,17 @@ All code is placed (or pasted) at position 4000. Many times in machine code ther
 The images of the codes to insert them are:
 
 ![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/challenge34/cod1.png)
+
+
 ![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/challenge34/cod2.png)
+
+
 ![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/challenge34/cod3.png)
+
+
 ![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/challenge34/cod4.png)
+
+
 ![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/challenge34/cod5.png)
 
 The results is:
