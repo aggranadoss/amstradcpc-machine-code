@@ -21,3 +21,7 @@ The images of the codes to insert them are:
 The results is:
 
 ![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/challenge34/gifs/RESULTS.gif)
+
+Video:
+
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/amstrad_cpc_exercises_resolved/exercise34/2023-01-26%2020-35-00.mp4)
