@@ -4,12 +4,12 @@ All code is placed (or pasted) at position 4000. Many times in machine code ther
 
 The images of the codes to insert them are:
 
-![](images/cod1.png)
-![](images/cod2.png)
-![](images/cod3.png)
-![](images/cod4.png)
-![](images/cod5.png)
+![](images/challenge34/cod1.png)
+![](images/challenge34/cod2.png)
+![](images/challenge34/cod3.png)
+![](images/challenge34/cod4.png)
+![](images/challenge34/cod5.png)
 
 The results is:
 
-![](images/gifs/RESULTS.gif)
+![](images/challenge34/gifs/RESULTS.gif)
