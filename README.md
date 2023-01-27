@@ -9,4 +9,4 @@ files are in binary format and are executed in winape. If you want to install an
 
 The image of the Amstrad CPCtelera
 
-
+![](images/amstradcpc.png)
