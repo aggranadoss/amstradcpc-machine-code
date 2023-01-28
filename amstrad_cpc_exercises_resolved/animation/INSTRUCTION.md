@@ -5,8 +5,12 @@ of the result of its operation and it can also be seen below this
 document in a gif format.
 
 The results is:
-![]()
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/animation/gifs/animation.gif)
 
 The images of the codes to insert them are:
 
-![]()
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/animation/a1.png)
+
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/animation/a2.png)
+
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/animation/a3.png)
