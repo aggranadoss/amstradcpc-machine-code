@@ -7,6 +7,11 @@ The results is:
 ![]()
 
 
+Code Explanation Diagram
+
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/amstrad_cpc_challenges_explained/arkanoid_bar/barra2.drawio.svg)
+
+
 The images of the codes to insert them are:
 
-![]()
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/arkanoid_bar/b_arkanoid.png)
