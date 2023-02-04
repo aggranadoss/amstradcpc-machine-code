@@ -5,13 +5,13 @@ Particular exercises and completed challenges of the Retroman Program.
 
 - [EXPLANATIONS OR RESULTS (OR BOTH)](https://github.com/aggranadoss/amstradcpc-machine-code/tree/master/amstrad_cpc_exercises_resolved).
 
-<div style="text-align: justify"> It is a program that can be found on the channel: </div>
+<div style="text-align: right"> It is a program that can be found on the channel: </div>
 
 - [YOUTUBE RETROMAN](https://www.youtube.com/@ProfesorRetroman/about)
 
 - [PROFESOR RETROMAN](https://profesorretroman.com/)
 
-<div style="text-align: justify"> with a complete machine language course and assembler on Z80. All executable files are in binary format and are executed in winape. If you want to install and test the binary, here is the video supported by the CPCtelera community:</div>
+<div style="text-align: right"> With a complete machine language course and assembler on Z80. All executable files are in binary format and are executed in winape. If you want to install and test the binary, here is the video supported by the CPCtelera community:</div>
 
 - [OS-LINUX UBUNTU](https://www.youtube.com/watch?v=aItoD7OfdkM)
 
