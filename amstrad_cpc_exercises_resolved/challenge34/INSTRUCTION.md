@@ -10,6 +10,20 @@
 
 - Attaching the bin file as MARIO_CHALLENGES34.bin
 
+The challenge 34:
+
+- Add an 8 x 8 pixel character to all the code above.
+
+- Add a bullet that travels across the screen.
+
+- Add a 4 x 4 pixel burst at the end of the bullet path.
+
+- Bonuses: Animator: If you make your character animated or if instead of an explosion you create an enemy, also animated, that receives the bullet and, for example, falls when dying.
+
+![]()
+
+
+
 The results is:
 
 ![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/challenge34/gifs/RESULTS.gif)
