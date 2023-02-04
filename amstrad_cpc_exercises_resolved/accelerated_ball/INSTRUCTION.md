@@ -9,6 +9,20 @@
 - The video of the result of its operation and it can also be seen below this document in a gif format.
 
 
+The challenge:
+
+- Minimum 4x4 pixels.
+- Movement: 4 pixels within the first character.
+- Above the letter "A".
+- Use instructions 36 and 26 to draw.
+- Use the 21 maximum statement once.
+
+Bonuses:
+
+- Accelerated: Simulates gravity, accelerating and decelerating.
+
+![]()
+
 The results is:
 ![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/accelerated_ball/gifs/accelerated_ball.gif)
 
