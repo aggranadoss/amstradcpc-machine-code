@@ -11,6 +11,10 @@ below this document in a gif format.
 
 - Attaching the bin file as arkanoid_bar.bin
 
+The challenge:
+
+- Draw and animate an arkanoid bar that uses the entire screen both going and coming (in both directions)
+
 The results is:
 
 ![]()
