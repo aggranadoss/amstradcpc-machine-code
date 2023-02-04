@@ -21,7 +21,7 @@ Bonuses:
 
 - Accelerated: Simulates gravity, accelerating and decelerating.
 
-![]()
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/accelerated_ball/gifs/challenge.gif)
 
 The results is:
 ![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/accelerated_ball/gifs/accelerated_ball.gif)
