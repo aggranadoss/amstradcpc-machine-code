@@ -20,7 +20,7 @@ The challenge 34:
 
 - Bonuses: Animator: If you make your character animated or if instead of an explosion you create an enemy, also animated, that receives the bullet and, for example, falls when dying.
 
-![]()
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/challenge34/gifs/challenge.gif)
 
 
 
