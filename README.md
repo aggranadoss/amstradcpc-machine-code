@@ -1,4 +1,7 @@
 # Amstrad CPC MACHINE CODE
+
+![](images/logo.png)
+
 Particular exercises and completed challenges of the Retroman Program.
 
 <div style="text-align: justify"> I present the approach together with the solutions of the different challenges. All the codes are in .bin format and must be loaded in position 4000 of the WINAPE program (CPCTelera). The start of the PC (Program Counter) will be indicated in the solution of each challenge in INSTRUCTION.md enjoy the program with its approaches and its solutions. </div>
