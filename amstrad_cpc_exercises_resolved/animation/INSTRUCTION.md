@@ -13,7 +13,7 @@ Double challenge:
 
   * Challenge 1:
 
-    	      - Fill from left to right.
+    	   - Fill from left to right.
 	      - It must be repeated infinitely.
 	      - Use all 4 colors.
 
@@ -25,7 +25,7 @@ Bonuses:
 
   * Challenge 2:
 
-    	      - Use only the instructions allowed for this challenge.
+ 	   - Use only the instructions allowed for this challenge.
 
   	      - Minimum 4 x 4 pixels (bigger if you want).
 
@@ -34,7 +34,7 @@ Bonuses:
   - Framemaster: Make an animation with more than 4 frames.
   - Big Changes: In each frame you only write the bytes that change.
 
-!()[https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/animation/gifs/challenge2.gif]
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/animation/gifs/challenge2.gif)
 
 The results is:
 ![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/animation/gifs/animation.gif)
