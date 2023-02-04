@@ -13,7 +13,7 @@ Double challenge:
 
   * Challenge 1:
 
-    	   - Fill from left to right.
+    	  - Fill from left to right.
 	      - It must be repeated infinitely.
 	      - Use all 4 colors.
 
@@ -27,7 +27,7 @@ Bonuses:
 
  	   - Use only the instructions allowed for this challenge.
 
-  	      - Minimum 4 x 4 pixels (bigger if you want).
+  	   - Minimum 4 x 4 pixels (bigger if you want).
 
 Bonuses:
 
