@@ -8,7 +8,7 @@
 
 - All code is placed (or pasted) at position 4000
 
-- the result of its operation can also be seen below this document in a png format.
+- The result of its operation can also be seen below this document in a png format.
 
 ## The challenge 3.1
 
