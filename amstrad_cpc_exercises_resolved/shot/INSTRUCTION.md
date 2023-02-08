@@ -9,9 +9,11 @@
 
 - All code is placed (or pasted) at position 4000
 
-- The PC (Program Counter) starts at xxxx, set values to zero and start Winape.
+- The PC (Program Counter) starts at 4000, set values to zero and start Winape.
 
-![]()
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/shot/shot_flags.png)
+
+
 
 - the result of its operation can also be seen below this document in a gif format.
 
