@@ -10,15 +10,15 @@
 
 - All code is placed (or pasted) at position 4000
 
-- The PC (Program Counter) starts at xxxx, set values to zero and start Winape.
+- The PC (Program Counter) starts at 407B, set values to zero and start Winape.
 
-![]()
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/challenge33/challenge33_flags.png)
 
 - the result of its operation can also be seen below this document in a png format.
 
 ## The challenge 3.3
 
-![]()
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/challenge33/gifs/challenge33exercise.png)
 
 - Draw a 16 x 4 pixel sky.
 
