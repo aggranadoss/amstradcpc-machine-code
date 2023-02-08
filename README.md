@@ -1,7 +1,7 @@
 # Amstrad CPC MACHINE CODE
 
 <div style="display: inline_block"><br>
-    <a href="https://profesorretroman.com/" target="_blank"><img align="center" alt="AmstradCPC"  height="77" width="668" src="https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/logo.png">
+    <a href="https://profesorretroman.com/" target="_blank"><img align="center" alt="AmstradCPC"  height="97" width="668" src="https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/logo.png">
 </div>
 
 Particular exercises and completed challenges of the Retroman Program.
