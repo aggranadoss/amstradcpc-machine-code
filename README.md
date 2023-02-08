@@ -36,6 +36,6 @@ Click on the image and you will see the results of the medal
 
 - [OS-WINDOWS](https://www.youtube.com/watch?v=YIrbPEinYp0&list=RDCMUCSdIAKvPxlB3VlFDCBvI46A&index=3)
 
-The image of the Amstrad CPCtelera
+## The image of the Amstrad CPCtelera
 
 ![](images/amstradcpc.png)
