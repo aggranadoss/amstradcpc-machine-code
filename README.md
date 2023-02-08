@@ -36,7 +36,7 @@ Click on the image and you will see the results of the medal
 
 - [OS-WINDOWS](https://www.youtube.com/watch?v=YIrbPEinYp0&list=RDCMUCSdIAKvPxlB3VlFDCBvI46A&index=3)
 
-## The image of the Amstrad CPCtelera
+## Winape Amstrad CPCtelera
 
 <div style="display: inline_block"><br>
     <a href="http://www.winape.net/downloads.jsp" target="_blank"><img align="center" alt="AmstradCPC" src="https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/amstradcpc.png">
