@@ -1,7 +1,7 @@
 # Amstrad CPC MACHINE CODE
 
 <div style="display: inline_block"><br>
-    <a href="https://profesorretroman.com/" target="_blank"><img align="center" alt="AmstradCPC" src="https://profesorretroman.com/">
+    <a href="https://profesorretroman.com/" target="_blank"><img align="center" alt="AmstradCPC"  height="77" width="468" src="https://profesorretroman.com/">
 </div>
 
 Particular exercises and completed challenges of the Retroman Program.
@@ -20,7 +20,7 @@ Click on the image and you will see the results of the medal
     <a href="https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/amstrad_cpc_exercises_resolved/first_sprite/INSTRUCTION.md" target="_blank"><img align="center" alt="AmstradCPC" height="240" width="240" src="https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/medals/medal_machine_code_first_sprite.png">
 </div>
 
-
+## Resources
 
 <div style="text-align: right"> It is a program that can be found on the channel: </div>
 
