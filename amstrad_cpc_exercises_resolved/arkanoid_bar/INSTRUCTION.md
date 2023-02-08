@@ -9,7 +9,7 @@
 - The video of the result of its operation and it can also be seen
 below this document in a gif format.
 
-- Attaching the bin file as arkanoid_bar.bin
+- Attaching the bin file as b_arkanoid_complete.bin
 
 The challenge:
 
@@ -22,9 +22,11 @@ The results is:
 
 Code Explanation Diagram
 
-![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/amstrad_cpc_challenges_explained/arkanoid_bar/barra2.drawio.svg)
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/amstrad_cpc_challenges_explained/arkanoid_bar/b_complete_arkanoid.svg)
 
 
 The images of the codes to insert them are:
 
-![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/arkanoid_bar/b_arkanoid.png)
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/arkanoid_bar/b_arkanoid1.png)
+
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/arkanoid_bar/b_arkanoid2.png)
