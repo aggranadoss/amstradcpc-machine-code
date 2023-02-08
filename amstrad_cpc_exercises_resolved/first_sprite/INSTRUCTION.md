@@ -12,8 +12,11 @@ The Challenge:
 
 The results is:
 
-![]()
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/amstrad_cpc_exercises_resolved/first_sprite/mario.png)
+
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/amstrad_cpc_exercises_resolved/first_sprite/first_sprite.png)
+
 
 The images of the code to instert them are:
 
-![]()
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/first_sprite/sprite_codigo.png)
