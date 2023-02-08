@@ -38,4 +38,8 @@ Click on the image and you will see the results of the medal
 
 ## The image of the Amstrad CPCtelera
 
-![](images/amstradcpc.png)
+<div style="display: inline_block"><br>
+    <a href="http://www.winape.net/downloads.jsp" target="_blank"><img align="center" alt="AmstradCPC" src="https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/amstradcpc.png">
+</div>
+
+
