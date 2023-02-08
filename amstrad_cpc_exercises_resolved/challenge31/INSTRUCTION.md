@@ -2,7 +2,7 @@
 
 ## The results is:
 
-![]()
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/amstrad_cpc_exercises_resolved/challenge31/Tileable.png)
 
 ## INSTRUCTIONS
 
@@ -12,7 +12,7 @@
 
 ## The challenge 3.1
 
-![]()
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/challenge31/challenge31exercise.png)
 
 - Create a 4 x 4 pixel floor design.
 
@@ -20,5 +20,5 @@
 
 ## The images of the codes to insert them are:
 
-![]()
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/challenge31/c_tileable.png)
 
