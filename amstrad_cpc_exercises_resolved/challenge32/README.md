@@ -12,9 +12,9 @@
 
 - The PC (Program Counter) starts at 401F, set values to zero and start Winape.
 
-![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/shot/shot_flags.png)
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/challenge32/challenge32.png)
 
-- the result of its operation can also be seen below this document in a gif format.
+- the result of its operation can also be seen below this document in a png format.
 
 ## The challenge 3.2
 
