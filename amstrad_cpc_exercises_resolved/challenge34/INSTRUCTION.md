@@ -1,4 +1,11 @@
-## README MARIO   
+#  CHALLENGE 3.4   
+
+## The results is:
+
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/challenge34/gifs/RESULTS.gif)
+
+
+## INSTRUCTIONS
 
 - All code is placed (or pasted) at position 4000.
 
@@ -10,7 +17,7 @@
 
 - Attaching the bin file as MARIO_CHALLENGES34.bin
 
-The challenge 34:
+## The challenge 3.4:
 
 - Add an 8 x 8 pixel character to all the code above.
 
@@ -24,11 +31,8 @@ The challenge 34:
 
 
 
-The results is:
 
-![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/challenge34/gifs/RESULTS.gif)
-
-The images of the codes to insert them are:
+## The images of the codes to insert them are:
 
 ![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/challenge34/cod1.png)
 

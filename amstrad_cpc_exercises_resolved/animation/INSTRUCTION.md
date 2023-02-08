@@ -1,4 +1,10 @@
-# README ANIMATION
+# ANIMATION
+
+## The results is:
+
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/animation/gifs/animation.gif)
+
+## INSTRUCTIONS
 
 - All code is placed (or pasted) at position 4000.
 
@@ -9,7 +15,7 @@
 - The video of the result of its operation and it can also be seen
 below this document in a gif format.
 
-Double challenge:
+## Double challenge:
 
   * Challenge 1:
 
@@ -36,10 +42,8 @@ Bonuses:
 
 ![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/animation/gifs/challenge2.gif)
 
-The results is:
-![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/animation/gifs/animation.gif)
 
-The images of the codes to insert them are:
+## The images of the codes to insert them are:
 
 ![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/animation/a1.png)
 

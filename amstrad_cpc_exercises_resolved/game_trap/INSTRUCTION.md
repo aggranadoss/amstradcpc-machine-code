@@ -1,5 +1,11 @@
-# README GAME TRAP
+# GAME TRAP
 
+## The results is:
+
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/game_trap/gifs/gametrap.gif)
+
+
+## INSTRUCTIONS
 - All code is placed (or pasted) at position 4000.
 
 - The PC (Program Counter) starts at 4000, set all values to zero and start Winape.
@@ -9,7 +15,7 @@
 - The video of the result of its operation and it can also be seen
 below this document in a gif format.
 
-The challenge:
+## The challenge:
 
 - 2 rows of pixels tall (Bigger if you want).
 - Static part: 4 pixels wide.
@@ -24,10 +30,8 @@ Optimizer: Your code is 32 bytes per frame (or less)
 
 ![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/game_trap/gifs/challenge.gif)
 
-The results is:
-![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/game_trap/gifs/gametrap.gif)
 
-The images of the codes to insert them are:
+## The images of the codes to insert them are:
 
 ![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/game_trap/trap1.png)
 
