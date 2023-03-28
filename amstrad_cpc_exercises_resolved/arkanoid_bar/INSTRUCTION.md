@@ -2,9 +2,7 @@
 
 ## The results is:
 
-![]()
-
-
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/arkanoid_bar/b_arkanoid.gif)
 
 ## Code Explanation Diagram
 
