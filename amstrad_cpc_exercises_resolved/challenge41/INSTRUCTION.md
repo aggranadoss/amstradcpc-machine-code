@@ -4,6 +4,10 @@
 
 ![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/images/challenge41/gifs/challenge41.gif)
 
+## Explanation by flowchart:
+
+![](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/amstrad_cpc_challenges_explained/challenge41/challenge41.svg)
+
 ## INSTRUCTIONS
 
 - All code is placed (or pasted) at position 4000.
